@@ -11,7 +11,7 @@
 
 # Repository
 
-Clone from here - https://github.com/faizaldong/u4-wattsense-backend.git
+Clone from here - https://github.com/u4energy/wattsense-backend
 
 # How to install / setup Java JDK 17 / Maven
 
@@ -50,7 +50,7 @@ On top left, click the New Project option. In popup, on left list, click on Spri
 
 On top middle, make sure you see name of your project, if you didn't see it, please run the application first. Then, you will same your name project appear.
 
-Click on the project name, from the list, select [Edit Configuration]. In the popup, fubd button [Modify options], then find Environment variables and select it. New field shown in the popup.
+Click on the project name, from the list, select [Edit Configuration]. In the popup, find button [Modify options], then find Environment variables and select it. New field shown in the popup.
 
 ## What is use of resources folder?
 

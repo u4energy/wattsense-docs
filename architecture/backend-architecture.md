@@ -3,6 +3,7 @@
 ## Tech Stack
 - Java 17 + Spring Boot
 - PostgreSQL
+- Docker
 - Redis (optional)
 - MQTT broker for IoT device communication
 
