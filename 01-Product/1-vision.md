@@ -1,6 +1,6 @@
 # Product Vision
 
-U4 Energy aims to empower residential and commercial users to monitor and optimize energy consumption efficiently. 
+U4 Energy Wattsense aims to empower residential and commercial users to monitor and optimize energy consumption efficiently and also to become the leading smart energy monitoring platform for SMEs in Southeast Asia.
 
 ## Goals
 - Accurate real-time consumption tracking
