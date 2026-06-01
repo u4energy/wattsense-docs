@@ -1,55 +1,157 @@
 # Product Vision
 
-U4 Energy Wattsense aims to empower residential and commercial users to monitor and optimize energy consumption efficiently and also to become the leading smart energy monitoring platform for SMEs in Southeast Asia.
+U4 Energy Wattsense bertujuan membantu pengguna kediaman dan komersial memantau serta mengoptimumkan penggunaan tenaga dengan lebih cekap, di samping menjadi platform Smart Energy Monitoring yang terkemuka bagi SME di Asia Tenggara.
+
+---
+
+## Mission
+
+Membantu pelanggan memahami, mengawal dan mengoptimumkan penggunaan tenaga melalui teknologi digital.
+
+---
 
 ## Goals
-- Accurate real-time consumption tracking
-- Cost awareness for energy usage
-- User-friendly mobile and web dashboards
-- Expandable to multiple countries
+
+* Menyediakan pemantauan penggunaan tenaga yang tepat dan hampir real-time.
+* Meningkatkan kesedaran pengguna terhadap kos penggunaan tenaga.
+* Menyediakan mobile dan web dashboard yang mudah digunakan.
+* Membangunkan platform yang boleh diperluaskan ke pelbagai negara pada masa hadapan.
+
+---
+
+## Wattsense Does Not Sell IoT Devices
+
+Wattsense membantu pelanggan mengurangkan kos elektrik, menghapuskan pembaziran tenaga dan meningkatkan kecekapan tenaga melalui intelligent monitoring, automation dan actionable insights.
+
+---
+
+## Product Philosophy
+
+Wattsense tidak menjual peranti IoT.
+
+Wattsense membantu pelanggan:
+
+* Mengurangkan kos elektrik.
+* Menghapuskan pembaziran tenaga.
+* Meningkatkan kecekapan operasi.
+* Membuat keputusan berasaskan data.
 
 ---
 
 ## Product Name
+
 **WattSense by U4 Energy**
 
-## Overview
-WattSense is a smart energy monitoring platform designed to help residential users understand and manage their household electricity usage through a simple dashboard, device-level insights, and estimated billing visibility.
+---
 
-The product aims to make energy consumption more transparent, easier to track, and more actionable for everyday home users.
+## Overview
+
+WattSense ialah platform Smart Energy Monitoring yang direka untuk membantu pengguna kediaman memahami dan mengurus penggunaan elektrik melalui dashboard yang ringkas, device-level insights dan anggaran kos bil elektrik.
+
+Produk ini dibangunkan untuk menjadikan penggunaan tenaga lebih telus, mudah difahami dan lebih mudah diurus oleh pengguna harian.
+
+---
 
 ## Problem Statement
-Many home users in Malaysia do not have a clear view of:
-- how much electricity they are consuming in real time or near real time
-- which devices may be contributing to higher bills
-- how their current usage may affect their monthly electricity bill
-- whether their energy usage is improving or worsening over time
 
-Without visibility, users can only react after receiving a high bill.
+Ramai pengguna di Malaysia tidak mempunyai gambaran yang jelas mengenai:
+
+* Berapa banyak elektrik yang digunakan secara real-time atau hampir real-time.
+* Peranti yang menyumbang kepada peningkatan bil elektrik.
+* Kesan penggunaan semasa terhadap bil elektrik bulanan.
+* Sama ada corak penggunaan tenaga mereka semakin baik atau semakin membazir dari semasa ke semasa.
+
+Tanpa visibility yang mencukupi, pengguna hanya mampu bertindak selepas menerima bil elektrik yang tinggi.
+
+---
 
 ## Vision
-To become a user-friendly smart home energy visibility platform that helps households monitor, understand, and eventually optimize their electricity consumption.
+
+Menjadi platform Smart Energy Visibility yang mesra pengguna bagi membantu isi rumah memantau, memahami dan seterusnya mengoptimumkan penggunaan elektrik mereka.
+
+---
+
+## Long-Term Vision
+
+Wattsense beraspirasi menjadi platform Energy Intelligence yang paling mudah digunakan dan mampu milik untuk pengguna kediaman, SME dan premis komersial di Malaysia.
+
+---
+
+## Strategic Direction
+
+Wattsense bermula sebagai platform Energy Monitoring.
+
+Dalam jangka panjang, platform ini akan berkembang menjadi:
+
+### Energy Intelligence Platform
+
+* Monitoring
+* Analytics
+* Automation
+* Cost Optimisation
+
+### Software Layer
+
+Platform yang boleh berintegrasi dengan pelbagai jenis peranti dan sistem tenaga.
+
+### Decision Engine
+
+Membantu pengguna mengambil tindakan yang menghasilkan penjimatan tenaga dan kos yang sebenar.
+
+---
 
 ## Long-Term Direction
-In the long term, WattSense may evolve to include:
-- real-time device-level monitoring
-- usage anomaly alerts
-- monthly bill prediction
-- smart recommendations for energy saving
-- subscription-based energy insights
-- integration with smart plugs and supported IoT devices
+
+Dalam jangka panjang, WattSense berpotensi berkembang untuk menyediakan:
+
+* Real-time device-level monitoring.
+* Pengesanan penggunaan luar biasa dan smart alerts.
+* Monthly bill prediction.
+* Smart recommendations untuk penjimatan tenaga.
+* Subscription-based energy insights.
+* Integrasi dengan smart plug dan peranti IoT yang disokong.
+
+---
 
 ## Initial Product Goal
-The initial goal is to validate a simple but useful MVP that demonstrates:
-- a dashboard experience
-- basic energy usage visibility
-- estimated bill visibility
-- device list / monitored devices
-- a realistic end-to-end product flow using frontend + backend
+
+Matlamat awal adalah untuk membangunkan dan mengesahkan Minimum Viable Product (MVP) yang ringkas tetapi bernilai melalui:
+
+* Pengalaman dashboard yang mudah difahami.
+* Basic energy usage visibility.
+* Paparan anggaran kos bil elektrik.
+* Device list dan monitored devices.
+* End-to-end product flow yang melibatkan frontend dan backend.
+
+---
 
 ## Success Criteria (Early Stage)
-The MVP is considered successful if it can:
-- display believable and useful energy data
-- show a clean dashboard experience
-- support demo / presentation usage
-- provide a foundation for future real device integration
+
+MVP dianggap berjaya sekiranya ia mampu:
+
+* Memaparkan data penggunaan tenaga yang munasabah dan berguna.
+* Menyediakan dashboard yang bersih dan mudah digunakan.
+* Menyokong tujuan demo dan product presentation.
+* Menjadi asas kepada integrasi peranti sebenar pada masa hadapan.
+
+---
+
+## Success Definition
+
+Kejayaan Wattsense tidak diukur berdasarkan jumlah peranti yang disambungkan.
+
+Sebaliknya, kejayaan diukur berdasarkan:
+
+* Jumlah kos elektrik yang berjaya dikurangkan.
+* Jumlah pembaziran tenaga yang berjaya dielakkan.
+* Nilai yang berjaya dijana kepada pelanggan.
+* Tahap kecekapan tenaga yang berjaya ditingkatkan.
+* Kebergantungan pelanggan terhadap platform untuk membuat keputusan berkaitan penggunaan tenaga.
+
+---
+
+## Strategic Success Statement
+
+Wattsense tidak menjual peranti IoT.
+
+Wattsense membantu pelanggan mengurangkan kos elektrik, menghapuskan pembaziran tenaga dan meningkatkan kecekapan operasi melalui Energy Intelligence, Automation dan Actionable Insights.
