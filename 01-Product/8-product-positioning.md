@@ -63,3 +63,47 @@ kepada:
 Energy Cost Reduction & Energy Intelligence Platform
 
 yang membantu pelanggan membuat keputusan berdasarkan impak kewangan sebenar.
+
+## ⚠️ Reality Check
+
+Satu risiko besar yang perlu difikirkan:
+
+User mungkin tak sanggup beli hardware pada hari pertama.
+
+Contoh:
+
+Smart Plug: RM50
+
+CT Clamp: RM100+
+
+Setup: RM200-RM500
+
+Lepas tu masih kena bayar subscription.
+
+Ramai orang akan fikir:
+
+"Aku belum nampak value lagi, kenapa aku kena keluar duit?"
+
+---
+
+👉 Itu sebabnya strategi ini menarik:
+
+Step 1:
+
+Wattsense SaaS
+
+Step 2:
+
+Buktikan value
+
+Step 3:
+
+Offer hardware upgrade
+
+---
+
+Bila user dah nampak:
+
+"Eh, bil aku turun RM80 sebulan sebab guna Wattsense"
+
+Baru senang jual hardware.

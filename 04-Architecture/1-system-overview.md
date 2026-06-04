@@ -8,6 +8,41 @@ Platform ini direka untuk menyokong pengguna residential, commercial dan SME den
 
 ---
 
+👉 SaaS ni bukan alternative kepada Wattsense
+
+👉 Dia adalah:
+
+foundation kepada Wattsense ecosystem
+
+## 🧩 Data Source Agnostic Design
+
+
+👉 SaaS kau MESTI dari awal design sebagai:
+
+"data-source agnostic"
+
+Maksudnya:
+
+System kau tak kisah data datang dari:
+
+- bill
+- manual input
+- IoT device
+
+### Example
+
+Energy Data Source:
+
+- BILL
+- MANUAL
+- DEVICE
+
+Backend normalize jadi:
+
+timestamp | kWh | source
+
+👉 so future integration jadi senang
+
 ## High-Level Architecture
 
 ```text
